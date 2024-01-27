@@ -14,4 +14,4 @@
  ![Firs_Person_view](https://github.com/rupak10987/Fighter_Plane_Game/blob/adf43a6b99aac9076660f9bd06a9382264a32969/FP_View.png)
 
  ## Video
- U can see a Game play video in this [google_drive](https://drive.google.com/file/d/1JvNv2pnMlAubjfsNj62bdM5HpiY6m4--/view?usp=drive_link) link.
+ U can see a Game play video in this [google_drive](https://drive.google.com/file/d/1JvNv2pnMlAubjfsNj62bdM5HpiY6m4--/view?usp=drive_link) link. The sound and sound effects are edited.
